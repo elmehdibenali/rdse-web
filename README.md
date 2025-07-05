@@ -5,5 +5,5 @@ This project is a responsive web application developed for RDSE (Réalisation et
 ## Features
 - Client registration and login
 - Online consultation reservations
-- Admin dashboard for managing services and offers
+- Admin dashboard for managing services , consultations  and offers
 - Email notifications
